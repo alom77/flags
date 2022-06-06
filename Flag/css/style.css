@@ -1,0 +1,83 @@
+
+
+.sobuj{
+    height: 350px;
+    width: 600px;
+    background-color: #00674c;
+    position: absolute;
+    overflow: hidden;
+    border: 4px solid black;
+}
+
+.lal{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #ec293f;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    border: 4px solid black;
+}
+
+.flag {
+    margin-top: 400px;
+    height: 300px;
+    width: 600px;
+    overflow: hidden;
+    border-radius: 5px;
+  }
+  
+  .alom1 {
+    background-color: #000000;
+    display: block;
+    width: 100%;
+    height: 33.3%;
+  }
+  .alom2 {
+    background-color: #FF0000;
+    display: block;
+    width: 100%;
+    height: 33.3%;
+  }
+  .alom3{
+    background-color: #FFCC00;
+    display: block;
+    width: 100%;
+    height: 33.3%;
+  }
+
+
+  .in{
+      height: 100px;
+      width: 600px;
+      background-color: #ff9a33;
+  }
+
+  .in1{
+    height: 100px;
+    width: 600px;
+    background-color: #ffffff;
+  }
+    .in2{
+    height: 100px;
+    width: 600px;
+    background-color: #138707;
+  }
+
+  .india{
+      display: inline-block;
+    border: 4px solid black;
+    border-radius: 4px;
+
+  }
+
+  .india .in1 img{
+      height: 110px;
+      margin-left: 40%;
+      
+
+  }
